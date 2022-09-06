@@ -1,1 +1,1 @@
-# animated-countdown
+# Animated-Countdown
